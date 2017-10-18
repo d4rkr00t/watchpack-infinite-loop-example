@@ -1,0 +1,16 @@
+{
+  "name": "watchpack-infinite-loop-example",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "watchpack": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Stanislav Sysoev <@d4rkr00t>",
+  "license": "MIT"
+}
